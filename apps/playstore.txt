@@ -1,1 +1,3 @@
 Here list of all apps and functionality will be present
+By clicking below you can check list of movies available
+click here to check for movies.
